@@ -20,7 +20,11 @@ body {
     text-align: center;
  }
 
+<<<<<<< .merge_file_a15444
  #footer {
+=======
+ #header {
+>>>>>>> .merge_file_a04392
     width: 100%;
     height: 50px;
     line-height: 50px;
